@@ -1,0 +1,482 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:2:1-85:12
+MERGED from [SparkChain.aar] /home/wangsen/.gradle/caches/transforms-3/7a6f056a730425d7137f2157b39fc5ac/transformed/jetified-SparkChain/AndroidManifest.xml:2:1-8:12
+MERGED from [Codec.aar] /home/wangsen/.gradle/caches/transforms-3/edf0f50e77445b5cc97b7f2cac947290/transformed/jetified-Codec/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3:1.1.1] /home/wangsen/.gradle/caches/transforms-3/e8b29d90b71fc1940a01f256cfd2dc00/transformed/jetified-material3-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/88a65ecfb6b0f246275f9da1e4c5685b/transformed/jetified-material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/de55ac6c1d487e49776e5d3df7d77a23/transformed/jetified-material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/4caa3185382237360bf1788d0ef94fb9/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/a96ffd16aae38226be32b47fd076a888/transformed/jetified-material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/c0e7fc35c232f44fcebcacd7dbea74f1/transformed/jetified-animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/2b70688e9760da4917eaea18defec76e/transformed/jetified-animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/637abdd3688b2e3f35414df59a669417/transformed/jetified-foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/56a70a18bc96070fa757363040992052/transformed/jetified-foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/a5cf9c151e07230a058549599cc73e04/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/7d744f5850ae70d7f497de5fd3c7709f/transformed/jetified-ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/67828bff2f14cbfaf0a147c0c803e8c9/transformed/jetified-ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/7ff878b2e539376d6a202f48f0b8824c/transformed/jetified-ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/4674ddd324fc839139aae838a23b0950/transformed/jetified-ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/8da7a004ed90f82ef0cadf882723e7e0/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/da01938ea8da23c7acb8724d14dbb16e/transformed/jetified-ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/2e022d90016b6576f2e722143c78f09a/transformed/jetified-ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /home/wangsen/.gradle/caches/transforms-3/38b1dccb760361e40a22aa8895730c54/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/d3a8135f03ad7884d945cc8285f6829b/transformed/jetified-ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.8.2] /home/wangsen/.gradle/caches/transforms-3/4932fd13d15a22f8d4c088e3afbeb675/transformed/jetified-activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.2] /home/wangsen/.gradle/caches/transforms-3/3a3f5be300f1017ff3e0dbfff2c136a3/transformed/jetified-activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /home/wangsen/.gradle/caches/transforms-3/3ef7da4d0cffeeea337ce25db2cfa2e2/transformed/jetified-activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/wangsen/.gradle/caches/transforms-3/f4693f0b037462e59fba6fb8f6e5989a/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ad8e7149deb4effa4213d243ed1ec60a/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/wangsen/.gradle/caches/transforms-3/323b1f6e0f7640b4b4abf1cb4dbdb4a6/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/wangsen/.gradle/caches/transforms-3/72ccfe7a5f2824861d58955960e190ca/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/wangsen/.gradle/caches/transforms-3/7a57b71a096bee40b190792b9894faab/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/wangsen/.gradle/caches/transforms-3/37cfeff8272edb14d58828efe117060b/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/wangsen/.gradle/caches/transforms-3/8f64807a310d1e3e115c743e36e59b3a/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/wangsen/.gradle/caches/transforms-3/3c6dfa47950d2fc39b321de613b5619a/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/wangsen/.gradle/caches/transforms-3/d37bb9d2b8944c0c081fd93eaa83670d/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/wangsen/.gradle/caches/transforms-3/56d782d471a2c71b85ddb1a4b89de12c/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/wangsen/.gradle/caches/transforms-3/3be5e727204011a52edf58cb5c6be33f/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/0b4efa3f5d76a1614d6dc03a82a78015/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/24f87dcae943476cf3c461151331f8d8/transformed/jetified-runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/wangsen/.gradle/caches/transforms-3/6b6d1faa95e6df1a47f564818d3c932d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wangsen/.gradle/caches/transforms-3/35ceee75c024ef3e9955f0229b45196e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wangsen/.gradle/caches/transforms-3/5981be152c50b8f23751b0cc6503ca06/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/wangsen/.gradle/caches/transforms-3/89fddfb36e16db218499d0b8680bb316/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wangsen/.gradle/caches/transforms-3/6e1c18398363d5bf68031c86ca1e637c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/wangsen/.gradle/caches/transforms-3/c359c50132f3d00f0b933561a2ef2b31/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:7:22-66
+uses-permission#android.permission.INTERNET
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:13:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:17:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:18:22-63
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.USE_EXACT_ALARM
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:20:22-71
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:21:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:22:22-75
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:23:5-95
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:23:22-92
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:24:5-92
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:24:22-89
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:25:22-74
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:26:22-73
+application
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:28:5-83:19
+INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:28:5-83:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /home/wangsen/.gradle/caches/transforms-3/38b1dccb760361e40a22aa8895730c54/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /home/wangsen/.gradle/caches/transforms-3/38b1dccb760361e40a22aa8895730c54/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/d3a8135f03ad7884d945cc8285f6829b/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/d3a8135f03ad7884d945cc8285f6829b/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wangsen/.gradle/caches/transforms-3/5981be152c50b8f23751b0cc6503ca06/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wangsen/.gradle/caches/transforms-3/5981be152c50b8f23751b0cc6503ca06/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wangsen/.gradle/caches/transforms-3/6e1c18398363d5bf68031c86ca1e637c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wangsen/.gradle/caches/transforms-3/6e1c18398363d5bf68031c86ca1e637c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:31:9-41
+	tools:targetApi
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:34:9-29
+	android:icon
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:33:9-53
+activity#com.example.elderlyguardian.MainActivity
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:35:9-45:20
+	android:label
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:38:13-45
+	android:exported
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:39:13-57
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:36:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:43:27-74
+service#com.example.elderlyguardian.services.VoiceMonitoringService
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:46:9-49:74
+	android:exported
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:48:13-37
+	android:foregroundServiceType
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:49:13-71
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:47:13-60
+service#com.example.elderlyguardian.services.FallDetectionService
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:50:9-53:56
+	android:exported
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:52:13-37
+	android:foregroundServiceType
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:53:13-53
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:51:13-58
+receiver#com.example.elderlyguardian.receivers.BootReceiver
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:54:9-61:20
+	android:enabled
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:57:13-35
+	android:exported
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:56:13-36
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:55:13-51
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:58:13-60:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:59:17-79
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:59:25-76
+receiver#com.example.elderlyguardian.receivers.MedicationReminderReceiver
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:62:9-64:40
+	android:exported
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:63:13-65
+receiver#com.example.elderlyguardian.receivers.ScamDetectionReceiver
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:65:9-67:40
+	android:exported
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:66:13-60
+service#com.example.elderlyguardian.services.MedicationReminderService
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:68:9-71:56
+	android:exported
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:70:13-37
+	android:foregroundServiceType
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:71:13-53
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:69:13-63
+activity#com.example.elderlyguardian.services.MedicationAlarmActivity
+ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:72:9-82:77
+	android:turnScreenOn
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:76:13-40
+	android:excludeFromRecents
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:77:13-46
+	android:launchMode
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:78:13-48
+	android:windowSoftInputMode
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:81:13-60
+	android:exported
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:74:13-37
+	android:showOnLockScreen
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:75:13-44
+	android:configChanges
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:82:13-74
+	android:theme
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:80:13-68
+	android:taskAffinity
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml:73:13-61
+uses-sdk
+INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml
+INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml
+MERGED from [SparkChain.aar] /home/wangsen/.gradle/caches/transforms-3/7a6f056a730425d7137f2157b39fc5ac/transformed/jetified-SparkChain/AndroidManifest.xml:6:5-44
+MERGED from [SparkChain.aar] /home/wangsen/.gradle/caches/transforms-3/7a6f056a730425d7137f2157b39fc5ac/transformed/jetified-SparkChain/AndroidManifest.xml:6:5-44
+MERGED from [Codec.aar] /home/wangsen/.gradle/caches/transforms-3/edf0f50e77445b5cc97b7f2cac947290/transformed/jetified-Codec/AndroidManifest.xml:5:5-44
+MERGED from [Codec.aar] /home/wangsen/.gradle/caches/transforms-3/edf0f50e77445b5cc97b7f2cac947290/transformed/jetified-Codec/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /home/wangsen/.gradle/caches/transforms-3/e8b29d90b71fc1940a01f256cfd2dc00/transformed/jetified-material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /home/wangsen/.gradle/caches/transforms-3/e8b29d90b71fc1940a01f256cfd2dc00/transformed/jetified-material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/88a65ecfb6b0f246275f9da1e4c5685b/transformed/jetified-material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/88a65ecfb6b0f246275f9da1e4c5685b/transformed/jetified-material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/de55ac6c1d487e49776e5d3df7d77a23/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/de55ac6c1d487e49776e5d3df7d77a23/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/4caa3185382237360bf1788d0ef94fb9/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/4caa3185382237360bf1788d0ef94fb9/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/a96ffd16aae38226be32b47fd076a888/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/a96ffd16aae38226be32b47fd076a888/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/c0e7fc35c232f44fcebcacd7dbea74f1/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/c0e7fc35c232f44fcebcacd7dbea74f1/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/2b70688e9760da4917eaea18defec76e/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/2b70688e9760da4917eaea18defec76e/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/637abdd3688b2e3f35414df59a669417/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/637abdd3688b2e3f35414df59a669417/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/56a70a18bc96070fa757363040992052/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/56a70a18bc96070fa757363040992052/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/a5cf9c151e07230a058549599cc73e04/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/a5cf9c151e07230a058549599cc73e04/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/7d744f5850ae70d7f497de5fd3c7709f/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/7d744f5850ae70d7f497de5fd3c7709f/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/67828bff2f14cbfaf0a147c0c803e8c9/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/67828bff2f14cbfaf0a147c0c803e8c9/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/7ff878b2e539376d6a202f48f0b8824c/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/7ff878b2e539376d6a202f48f0b8824c/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/4674ddd324fc839139aae838a23b0950/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/4674ddd324fc839139aae838a23b0950/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/8da7a004ed90f82ef0cadf882723e7e0/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/8da7a004ed90f82ef0cadf882723e7e0/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/da01938ea8da23c7acb8724d14dbb16e/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/da01938ea8da23c7acb8724d14dbb16e/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/2e022d90016b6576f2e722143c78f09a/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/2e022d90016b6576f2e722143c78f09a/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /home/wangsen/.gradle/caches/transforms-3/38b1dccb760361e40a22aa8895730c54/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] /home/wangsen/.gradle/caches/transforms-3/38b1dccb760361e40a22aa8895730c54/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/d3a8135f03ad7884d945cc8285f6829b/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/d3a8135f03ad7884d945cc8285f6829b/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /home/wangsen/.gradle/caches/transforms-3/4932fd13d15a22f8d4c088e3afbeb675/transformed/jetified-activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /home/wangsen/.gradle/caches/transforms-3/4932fd13d15a22f8d4c088e3afbeb675/transformed/jetified-activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /home/wangsen/.gradle/caches/transforms-3/3a3f5be300f1017ff3e0dbfff2c136a3/transformed/jetified-activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /home/wangsen/.gradle/caches/transforms-3/3a3f5be300f1017ff3e0dbfff2c136a3/transformed/jetified-activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /home/wangsen/.gradle/caches/transforms-3/3ef7da4d0cffeeea337ce25db2cfa2e2/transformed/jetified-activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /home/wangsen/.gradle/caches/transforms-3/3ef7da4d0cffeeea337ce25db2cfa2e2/transformed/jetified-activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/wangsen/.gradle/caches/transforms-3/f4693f0b037462e59fba6fb8f6e5989a/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/wangsen/.gradle/caches/transforms-3/f4693f0b037462e59fba6fb8f6e5989a/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ad8e7149deb4effa4213d243ed1ec60a/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ad8e7149deb4effa4213d243ed1ec60a/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/wangsen/.gradle/caches/transforms-3/323b1f6e0f7640b4b4abf1cb4dbdb4a6/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/wangsen/.gradle/caches/transforms-3/323b1f6e0f7640b4b4abf1cb4dbdb4a6/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/wangsen/.gradle/caches/transforms-3/72ccfe7a5f2824861d58955960e190ca/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/wangsen/.gradle/caches/transforms-3/72ccfe7a5f2824861d58955960e190ca/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/wangsen/.gradle/caches/transforms-3/7a57b71a096bee40b190792b9894faab/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/wangsen/.gradle/caches/transforms-3/7a57b71a096bee40b190792b9894faab/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/wangsen/.gradle/caches/transforms-3/37cfeff8272edb14d58828efe117060b/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/wangsen/.gradle/caches/transforms-3/37cfeff8272edb14d58828efe117060b/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/wangsen/.gradle/caches/transforms-3/8f64807a310d1e3e115c743e36e59b3a/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/wangsen/.gradle/caches/transforms-3/8f64807a310d1e3e115c743e36e59b3a/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/wangsen/.gradle/caches/transforms-3/3c6dfa47950d2fc39b321de613b5619a/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/wangsen/.gradle/caches/transforms-3/3c6dfa47950d2fc39b321de613b5619a/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/wangsen/.gradle/caches/transforms-3/d37bb9d2b8944c0c081fd93eaa83670d/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/wangsen/.gradle/caches/transforms-3/d37bb9d2b8944c0c081fd93eaa83670d/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/wangsen/.gradle/caches/transforms-3/56d782d471a2c71b85ddb1a4b89de12c/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/wangsen/.gradle/caches/transforms-3/56d782d471a2c71b85ddb1a4b89de12c/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/wangsen/.gradle/caches/transforms-3/3be5e727204011a52edf58cb5c6be33f/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/wangsen/.gradle/caches/transforms-3/3be5e727204011a52edf58cb5c6be33f/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/0b4efa3f5d76a1614d6dc03a82a78015/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/0b4efa3f5d76a1614d6dc03a82a78015/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/24f87dcae943476cf3c461151331f8d8/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/24f87dcae943476cf3c461151331f8d8/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/wangsen/.gradle/caches/transforms-3/6b6d1faa95e6df1a47f564818d3c932d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/wangsen/.gradle/caches/transforms-3/6b6d1faa95e6df1a47f564818d3c932d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wangsen/.gradle/caches/transforms-3/35ceee75c024ef3e9955f0229b45196e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wangsen/.gradle/caches/transforms-3/35ceee75c024ef3e9955f0229b45196e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wangsen/.gradle/caches/transforms-3/5981be152c50b8f23751b0cc6503ca06/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/wangsen/.gradle/caches/transforms-3/5981be152c50b8f23751b0cc6503ca06/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/wangsen/.gradle/caches/transforms-3/89fddfb36e16db218499d0b8680bb316/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/wangsen/.gradle/caches/transforms-3/89fddfb36e16db218499d0b8680bb316/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wangsen/.gradle/caches/transforms-3/6e1c18398363d5bf68031c86ca1e637c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wangsen/.gradle/caches/transforms-3/6e1c18398363d5bf68031c86ca1e637c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/wangsen/.gradle/caches/transforms-3/c359c50132f3d00f0b933561a2ef2b31/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/wangsen/.gradle/caches/transforms-3/c359c50132f3d00f0b933561a2ef2b31/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/wangsen/programe/YinfaGuanjia/app/src/main/AndroidManifest.xml
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] /home/wangsen/.gradle/caches/transforms-3/38b1dccb760361e40a22aa8895730c54/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] /home/wangsen/.gradle/caches/transforms-3/38b1dccb760361e40a22aa8895730c54/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] /home/wangsen/.gradle/caches/transforms-3/38b1dccb760361e40a22aa8895730c54/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/d3a8135f03ad7884d945cc8285f6829b/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/d3a8135f03ad7884d945cc8285f6829b/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] /home/wangsen/.gradle/caches/transforms-3/d3a8135f03ad7884d945cc8285f6829b/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wangsen/.gradle/caches/transforms-3/6e1c18398363d5bf68031c86ca1e637c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/wangsen/.gradle/caches/transforms-3/6e1c18398363d5bf68031c86ca1e637c/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/wangsen/.gradle/caches/transforms-3/566ab4f9474d6deb7575ebebffac3c5d/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/wangsen/.gradle/caches/transforms-3/ab6ae78f9a69fb384e9fa752f3c6881b/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.example.elderlyguardian.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.elderlyguardian.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/wangsen/.gradle/caches/transforms-3/d9df576dcaca9e76e24725bc3e0fc475/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/wangsen/.gradle/caches/transforms-3/438cca632653b6268d35f5698de61ddc/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

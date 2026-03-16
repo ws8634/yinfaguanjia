@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="error">#D32F2F</color>
+    <color name="ic_launcher_background">#2196F3</color>
+    <color name="on_background">#000000</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#000000</color>
+    <color name="on_surface">#000000</color>
+    <color name="primary">#1E88E5</color>
+    <color name="primary_variant">#1565C0</color>
+    <color name="secondary">#FFC107</color>
+    <color name="secondary_variant">#FFA000</color>
+    <color name="surface">#F5F5F5</color>
+    <string name="app_name">银发管家</string>
+    <string name="emergency_call">紧急呼叫</string>
+    <string name="emergency_contact">紧急联系人</string>
+    <string name="fall_detection">跌倒检测</string>
+    <string name="fall_detection_question">您还好吗？请说"我没事"确认安全</string>
+    <string name="medication_record">用药记录</string>
+    <string name="medication_reminder">用药提醒</string>
+    <string name="permissions_denied">部分权限未授予，功能可能受限</string>
+    <string name="permissions_granted">所有权限已授予</string>
+    <string name="scam_detection_question">您确定要进行这个操作吗？</string>
+    <string name="scam_protection">诈骗防护</string>
+    <string name="schedule_management">日程管理</string>
+    <string name="settings">设置</string>
+    <string name="voice_chat">语音聊天</string>
+    <string name="voice_companion">语音陪伴</string>
+    <string name="voice_recognition">声纹识别</string>
+    <style name="Theme.ElderlyGuardian" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_variant</item>
+        <item name="android:colorAccent">@color/secondary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Theme.ElderlyGuardian.FullScreen" parent="Theme.ElderlyGuardian">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

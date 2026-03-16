@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">银发管家</string>
+    <string name="emergency_call">紧急呼叫</string>
+    <string name="voice_chat">语音聊天</string>
+    <string name="medication_record">用药记录</string>
+    <string name="settings">设置</string>
+    <string name="permissions_granted">所有权限已授予</string>
+    <string name="permissions_denied">部分权限未授予，功能可能受限</string>
+    <string name="fall_detection_question">您还好吗？请说"我没事"确认安全</string>
+    <string name="scam_detection_question">您确定要进行这个操作吗？</string>
+    <string name="emergency_contact">紧急联系人</string>
+    <string name="medication_reminder">用药提醒</string>
+    <string name="voice_recognition">声纹识别</string>
+    <string name="fall_detection">跌倒检测</string>
+    <string name="scam_protection">诈骗防护</string>
+    <string name="voice_companion">语音陪伴</string>
+    <string name="schedule_management">日程管理</string>
+</resources>

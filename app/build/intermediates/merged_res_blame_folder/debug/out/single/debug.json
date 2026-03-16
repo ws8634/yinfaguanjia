@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/xml_backup_rules.xml.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.elderlyguardian.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.elderlyguardian.app-main-47:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

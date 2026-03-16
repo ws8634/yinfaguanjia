@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 背景圆形渐变效果 -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0"/>
+    
+    <!-- 内圈高光 -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0"/>
+
+    <!-- 管家头部 - 皮肤色 -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M54,24
+                         C44,24 36,32 36,44
+                         C36,54 44,62 54,62
+                         C64,62 72,54 72,44
+                         C72,32 64,24 54,24
+                         Z"/>
+
+    <!-- 耳朵 -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M34,40
+                         C32,40 30,42 30,46
+                         C30,50 32,52 34,52
+                         C36,52 36,48 36,46
+                         C36,44 36,40 34,40
+                         Z"/>
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M74,40
+                         C76,40 78,42 78,46
+                         C78,50 76,52 74,52
+                         C72,52 72,48 72,46
+                         C72,44 72,40 74,40
+                         Z"/>
+
+    <!-- 管家帽子 - 白色礼帽 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,42
+                         L80,42
+                         L76,30
+                         L32,30
+                         Z"/>
+    <!-- 帽子顶部 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,30
+                         L38,20
+                         L70,20
+                         L70,30
+                         Z"/>
+    <!-- 帽子装饰带 -->
+    <path
+        android:fillColor="#333333"
+        android:pathData="M30,38
+                         L78,38
+                         L78,42
+                         L30,42
+                         Z"/>
+
+    <!-- 眼睛 - 黑色 -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M46,42
+                         A3.5,3.5 0 1,1 39,42
+                         A3.5,3.5 0 1,1 46,42"/>
+    <path
+        android:fillColor="#212121"
+        android:pathData="M69,42
+                         A3.5,3.5 0 1,1 62,42
+                         A3.5,3.5 0 1,1 69,42"/>
+
+    <!-- 眼睛高光 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,40
+                         A1.2,1.2 0 1,1 41.6,40
+                         A1.2,1.2 0 1,1 44,40"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,40
+                         A1.2,1.2 0 1,1 64.6,40
+                         A1.2,1.2 0 1,1 67,40"/>
+
+    <!-- 眉毛 -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M40,36
+                         L48,37
+                         L48,38
+                         L40,37
+                         Z"/>
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M60,37
+                         L68,36
+                         L68,37
+                         L60,38
+                         Z"/>
+
+    <!-- 鼻子 -->
+    <path
+        android:fillColor="#FFAB91"
+        android:pathData="M54,46
+                         L52,50
+                         L56,50
+                         Z"/>
+
+    <!-- 微笑嘴巴 -->
+    <path
+        android:fillColor="#D84315"
+        android:pathData="M46,54
+                         C46,54 50,58 54,58
+                         C58,58 62,54 62,54
+                         C62,54 58,56 54,56
+                         C50,56 46,54 46,54
+                         Z"/>
+
+    <!-- 脸颊红晕 -->
+    <path
+        android:fillColor="#FFAB91"
+        android:pathData="M40,48
+                         A4,2 0 1,1 32,48
+                         A4,2 0 1,1 40,48"/>
+    <path
+        android:fillColor="#FFAB91"
+        android:pathData="M76,48
+                         A4,2 0 1,1 68,48
+                         A4,2 0 1,1 76,48"/>
+
+    <!-- 身体/制服 - 白色西装 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,90
+                         L24,68
+                         C24,60 34,56 54,56
+                         C74,56 84,60 84,68
+                         L84,90
+                         Z"/>
+
+    <!-- 制服领子 -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M44,58
+                         L54,68
+                         L64,58
+                         L60,68
+                         L54,72
+                         L48,68
+                         Z"/>
+
+    <!-- 领结 - 红色蝴蝶结 -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M54,66
+                         L46,62
+                         L46,74
+                         L54,70
+                         Z"/>
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M54,66
+                         L62,62
+                         L62,74
+                         L54,70
+                         Z"/>
+    <!-- 领结中心 -->
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M51,66
+                         L57,66
+                         L57,72
+                         L51,72
+                         Z"/>
+
+    <!-- 制服纽扣 - 金色 -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,78
+                         A2.5,2.5 0 1,1 49,78
+                         A2.5,2.5 0 1,1 54,78"/>
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,86
+                         A2.5,2.5 0 1,1 49,86
+                         A2.5,2.5 0 1,1 54,86"/>
+
+    <!-- 左手 -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M20,70
+                         C16,70 14,74 14,80
+                         C14,86 16,90 20,90
+                         C24,90 26,86 26,80
+                         C26,74 24,70 20,70
+                         Z"/>
+
+    <!-- 右手 -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M88,70
+                         C84,70 82,74 82,80
+                         C82,86 84,90 88,90
+                         C92,90 94,86 94,80
+                         C94,74 92,70 88,70
+                         Z"/>
+
+    <!-- 爱心装饰 - 体现关爱 -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M86,26
+                         C84,24 82,24 80,26
+                         C78,28 78,30 80,32
+                         L86,38
+                         L92,32
+                         C94,30 94,28 92,26
+                         C90,24 88,24 86,26
+                         Z"/>
+
+</vector>
