@@ -1,0 +1,7 @@
+# 屏蔽所有 Windows Zone.Identifier 元数据
+*:Zone.Identifier
+:Zone.Identifier
+
+# 额外屏蔽常见系统垃圾
+.DS_Store
+Thumbs.db
